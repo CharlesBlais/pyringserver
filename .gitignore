@@ -1,0 +1,13 @@
+# Ignore python compile
+*pyc
+
+# Ignore visual studio code
+.vscode
+
+# Ignore build
+*egg-info
+/build/
+/dist/
+
+# Ignore mypy
+.mypy_cache
